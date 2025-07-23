@@ -65,7 +65,5 @@ This internship significantly improved my skills in:
 - Multilingual application design
 - Working independently on real-world machine learning problems
 
-
-
 Conclusion
 This internship has been a valuable experience in applying Data Science skills to real-world projects. I have improved my technical skills, learned how to approach and solve real problems, and gained confidence in deploying AI-powered solutions. I look forward to applying these skills in future academic and professional endeavors.
